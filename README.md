@@ -1,4 +1,4 @@
-# AutoDox Tool - [Download .exe here](https://github.com/fknMega/Auto-doxxing-tool/releases/tag/Releases)
+# AutoDox Tool - [Download .exe here](https://github.com/adamamk99/doxxing-tool/releases/tag/dox)
 
 [![Github All Releases](https://img.shields.io/github/downloads/fknMega/Auto-doxxing-tool/total.svg)]()
 

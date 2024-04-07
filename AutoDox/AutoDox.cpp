@@ -39,7 +39,7 @@ int main()
 		}
 		break;
 	case 2:
-		std::cout << "Username: ";
+		std::cout << "kyujo._: ";
 
 		std::getline(std::cin, option2);
 		std::cout << "Fetching user details\n";
